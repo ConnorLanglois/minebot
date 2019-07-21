@@ -20,11 +20,11 @@ Clone the repo.
 
 Run one of the main module files:
 
-	```
-	src/ModuleAutoPot.au3
-	src/ModuleClickBot.au3
-	src/ModuleSprintLegit.au3
-	```
+```
+src/ModuleAutoPot.au3
+src/ModuleClickBot.au3
+src/ModuleSprintLegit.au3
+```
 
 ## Authors
 
